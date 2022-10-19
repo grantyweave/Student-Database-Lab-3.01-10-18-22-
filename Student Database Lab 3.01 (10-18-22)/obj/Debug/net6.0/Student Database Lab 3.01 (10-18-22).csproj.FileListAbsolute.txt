@@ -1,0 +1,15 @@
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\bin\Debug\net6.0\Student Database Lab 3.01 (10-18-22).exe
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\bin\Debug\net6.0\Student Database Lab 3.01 (10-18-22).deps.json
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\bin\Debug\net6.0\Student Database Lab 3.01 (10-18-22).runtimeconfig.json
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\bin\Debug\net6.0\Student Database Lab 3.01 (10-18-22).dll
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\bin\Debug\net6.0\Student Database Lab 3.01 (10-18-22).pdb
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\Student Database Lab 3.01 (10-18-22).csproj.AssemblyReference.cache
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\Student Database Lab 3.01 (10-18-22).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\Student Database Lab 3.01 (10-18-22).AssemblyInfoInputs.cache
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\Student Database Lab 3.01 (10-18-22).AssemblyInfo.cs
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\Student Database Lab 3.01 (10-18-22).csproj.CoreCompileInputs.cache
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\Student Database Lab 3.01 (10-18-22).dll
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\refint\Student Database Lab 3.01 (10-18-22).dll
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\Student Database Lab 3.01 (10-18-22).pdb
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\Student Database Lab 3.01 (10-18-22).genruntimeconfig.cache
+C:\Users\Grant\source\repos\Student Database Lab 3.01 (10-18-22)\Student Database Lab 3.01 (10-18-22)\obj\Debug\net6.0\ref\Student Database Lab 3.01 (10-18-22).dll
